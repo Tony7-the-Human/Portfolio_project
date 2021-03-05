@@ -2,14 +2,19 @@
 ## :pushpin: Portfolio_project
 ___
 ### :link: Ссылка на курс: [itgid.info](https://itgid.info/)
-### :link: Ссылка на результат: [Portfolio_project](https://tony7-the-human.github.io/Portfolio_project/)
+
 ___
 ### :computer: Учебный проект по верстке сайта в рамках курса 
 ### "HTML для JavaScript разработчиков" 
 ___
+#### :tired_face: Головоломка:
+
+- Сверстать сайт (интернет-магазин) с осуществлением загрузки контента с помощью JavaScript
+___
 #### :memo: Описание проекта: 
 
-- Адаптивный сайт резюме на основе Bootstrap. Загрузка данных осуществляется с помощью JavaScript
+- Адаптивный сайт резюме на основе Bootstrap. 
+- Результат выполненной работы: [Portfolio_project](https://tony7-the-human.github.io/Portfolio_project/)
 ___ 
 #### :rocket: Технологии и Особенности
 * Bootstrap
