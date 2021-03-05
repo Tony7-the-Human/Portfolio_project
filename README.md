@@ -1,7 +1,8 @@
 
 ## :pushpin: Portfolio_project
 
-### :link: [itgid.info](https://itgid.info/)
+### :link: Ссылка на курс: [itgid.info](https://itgid.info/)
+### :link: Ссылка на результат: [Portfolio_project](https://tony7-the-human.github.io/Portfolio_project/)
 
 ### :computer: Учебный проект по верстке сайта в рамках курса 
 ### "HTML для JavaScript разработчиков" 
