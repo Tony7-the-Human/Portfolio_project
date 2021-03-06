@@ -14,7 +14,11 @@ ___
 #### :memo: Описание проекта: 
 
 - Адаптивный сайт резюме на основе Bootstrap. 
-- Результат выполненной работы: [Portfolio_project](https://tony7-the-human.github.io/Portfolio_project/)
+___ 
+
+#### :thumbsup: Что получилось в итоге: 
+
+- [Portfolio_project](https://tony7-the-human.github.io/Portfolio_project/)
 ___ 
 #### :rocket: Технологии и Особенности
 * Bootstrap
